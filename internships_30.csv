@@ -1,0 +1,31 @@
+Company Name,Role/Position,Skills Required,Allowance,Location,Remote Option,Company Reputation Score
+Tech Solutions Inc.,Web Development Intern,"HTML, CSS, JavaScript",5000,Iloilo City,Yes,4
+DataWise Analytics,Data Analysis Intern,"Python, SQL, Excel",7000,Manila City,No,5
+Creative Studios,Graphic Design Intern,"Adobe Photoshop, Illustrator",4000,Cebu City,Yes,3
+Global Systems Ltd.,Network Admin Intern,"Cisco, Linux, TCP/IP",6000,Iloilo City,No,4
+Mobile Innovations,Mobile App Development Intern,"Java, Android SDK, iOS SDK",8000,Davao City,Yes,5
+Innovatech Systems,Software Engineering Intern,"C++, Git, Agile",9500,Quezon City,No,4
+Bright Futures Co.,Marketing Intern,"Digital Marketing, SEO, Content Creation",5500,Bacolod City,Yes,3
+Alpha Dynamics,Finance Intern,"Accounting, Financial Analysis",8200,Makati City,No,5
+WebCrafters Inc.,UI/UX Design Intern,"Figma, Sketch, User Research",6800,Taguig City,Yes,4
+CodeGenius Labs,Data Science Intern,"R, Machine Learning, Statistics",9200,Pasig City,Yes,5
+Pixel Perfect Designs,Graphic Design Intern,"Adobe InDesign, Branding",4300,Iloilo City,No,3
+NetWorks Ltd.,Network Security Intern,"Cybersecurity, Firewall, Intrusion Detection",7100,Manila City,No,4
+AppMakers Co.,Mobile Development Intern,"Swift, Kotlin, UI Design",8400,Cebu City,Yes,5
+SoftSolutions Inc.,Software Testing Intern,"Selenium, JUnit, Test Automation",5800,Davao City,No,4
+MarketMasters,Marketing Research Intern,"Market Analysis, SPSS, Data Visualization",6500,Quezon City,Yes,3
+FinGlobal Ltd.,Financial Planning Intern,"Investment Analysis, Economics",7900,Bacolod City,No,5
+DesignHub,Web Design Intern,"HTML5, CSS3, Responsive Design",6200,Makati City,Yes,4
+AI Frontiers,AI Research Intern,"TensorFlow, PyTorch, Natural Language Processing",9100,Taguig City,Yes,5
+Digital Dreams Inc.,Digital Marketing Intern,"Social Media Marketing, Google Analytics",5200,Pasig City,Yes,3
+CloudConnect,Cloud Computing Intern,"AWS, DevOps, System Administration",7400,Iloilo City,No,4
+DataStream Analytics,Business Intelligence Intern,"Tableau, Data Warehousing, ETL",8700,Manila City,Yes,5
+Visionary Studios,Video Editing Intern,"Adobe Premiere Pro, After Effects",3900,Cebu City,Yes,3
+SecureNet Systems,Cybersecurity Intern,"Network Security, Ethical Hacking, Vulnerability Assessment",6900,Davao City,No,4
+AdWise Agency,Advertising Intern,"Campaign Management, Creative Strategy",5600,Quezon City,Yes,3
+MoneyMakers Inc.,Investment Banking Intern,"Financial Modeling, Valuation",8100,Bacolod City,No,5
+CodeCrafters Ltd.,Full Stack Development Intern,"MERN Stack, RESTful APIs",6400,Makati City,Yes,4
+Language AI,Natural Language Processing Intern,"NLTK, SpaCy, Text Mining",9300,Taguig City,Yes,5
+SocialSphere,Social Media Management Intern,"Content Strategy, Community Engagement",4900,Pasig City,Yes,3
+InfraBuild,Infrastructure Management Intern,"Linux, Virtualization, Cloud Services",7200,Iloilo City,No,4
+Insightful Data,Data Architect Intern,"Big Data, Hadoop, Spark",8500,Manila City,Yes,5 
